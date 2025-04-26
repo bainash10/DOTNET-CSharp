@@ -1,11 +1,12 @@
 # **VB.NET, C# Lab Reports by Nischal Baidar**
 
 ## **Branches Overview**
-The repository contains **4 branches**:
-1. **main** - Contains lab reports.
-2. **testing** - Contains a simple `nis.txt` file.
-3. **check** - Contains Python files with `.py` extensions.
-4. **master** - Merged with `testing` and `check` branches.
+| Branch | Description |
+| --- | --- |
+| `main` | Contains lab reports. |
+| `testing` | Contains a simple `nis.txt` file. |
+| `check` | Contains Python files with `.py` extensions. |
+| `master` | Merged with `testing` and `check` branches. |s.
 
 ## **Inside `main` Branch**
 
@@ -37,6 +38,41 @@ This lab consists of several fundamental C# programs:
 
 #### **Practice Project at College**
 - Files located inside **`Lab 2\!Practice_PROJECT_Folder_AT_College\ConsoleApp1`** is developed under the guidance of the instructor.
+
+---
+### Lab 3: Inheritance, Overloading, and Overriding
+
+This lab demonstrates important **Object-Oriented Programming (OOP)** concepts in C#:
+
+#### Concepts Covered
+- **Method Overloading**
+  - Same method names `Add` and `Multiply` are defined with different parameter types (`int`, `double`).
+  - Demonstrates **compile-time polymorphism** (static binding).
+
+- **Inheritance**
+  - A base class provides basic math operations like addition, subtraction, multiplication, and division.
+  - A derived class inherits these functionalities and enhances them.
+
+- **Palindrome Checking**
+  - A class is implemented to check whether a given string is a **palindrome** (reads the same forward and backward).
+
+- **Method Overriding**
+  - The base class `Operation` defines a virtual `Calculate` method.
+  - Derived classes `Addition`, `Subtraction`, `Multiplication`, and `Division` override the `Calculate` method to perform specific arithmetic operations.
+  - Demonstrates **runtime polymorphism** (dynamic binding) based on user input.
+
+
+#### Project Structure
+| File | Description |
+| --- | --- |
+| `Program.cs` | Main program where object creation, method calls, and menu logic are handled. |
+| `nOverloading.cs` | Contains method overloading implementations. |
+| `Inheritance.cs` | Contains inheritance examples. |
+| `Palindrome.cs` | Implements logic for checking if a string is a palindrome. |
+| `Overriding.cs` | Contains base and derived classes for overriding (`Operation`, `Addition`, `Subtraction`, `Multiplication`, `Division`). |
+
+#### Summary
+This lab builds strong foundations on how **overloading**, **inheritance**, **palindrome checking**, and **overriding** work together to implement real-world scenarios using **C#**.
 
 ---
 
