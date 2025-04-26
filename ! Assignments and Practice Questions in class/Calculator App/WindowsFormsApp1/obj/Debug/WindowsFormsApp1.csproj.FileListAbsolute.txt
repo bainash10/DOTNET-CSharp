@@ -1,0 +1,10 @@
+D:\Workspace\Github\DOTNET-CSharp\Practice_in_Class Calculator App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Workspace\Github\DOTNET-CSharp\Practice_in_Class Calculator App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Workspace\Github\DOTNET-CSharp\Practice_in_Class Calculator App\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Workspace\Github\DOTNET-CSharp\Practice_in_Class Calculator App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Workspace\Github\DOTNET-CSharp\Practice_in_Class Calculator App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Workspace\Github\DOTNET-CSharp\Practice_in_Class Calculator App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Workspace\Github\DOTNET-CSharp\Practice_in_Class Calculator App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Workspace\Github\DOTNET-CSharp\Practice_in_Class Calculator App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\DOTNET-CSharp\Practice_in_Class Calculator App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Workspace\Github\DOTNET-CSharp\Practice_in_Class Calculator App\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,10 @@
+D:\Workspace\Github\DOTNET-CSharp\Assignment_Login_Form\bin\Debug\Assignment_Login_Form.exe.config
+D:\Workspace\Github\DOTNET-CSharp\Assignment_Login_Form\bin\Debug\Assignment_Login_Form.exe
+D:\Workspace\Github\DOTNET-CSharp\Assignment_Login_Form\bin\Debug\Assignment_Login_Form.pdb
+D:\Workspace\Github\DOTNET-CSharp\Assignment_Login_Form\obj\Debug\Assignment_Login_Form.csproj.AssemblyReference.cache
+D:\Workspace\Github\DOTNET-CSharp\Assignment_Login_Form\obj\Debug\Assignment_Login_Form.Form1.resources
+D:\Workspace\Github\DOTNET-CSharp\Assignment_Login_Form\obj\Debug\Assignment_Login_Form.Properties.Resources.resources
+D:\Workspace\Github\DOTNET-CSharp\Assignment_Login_Form\obj\Debug\Assignment_Login_Form.csproj.GenerateResource.cache
+D:\Workspace\Github\DOTNET-CSharp\Assignment_Login_Form\obj\Debug\Assignment_Login_Form.csproj.CoreCompileInputs.cache
+D:\Workspace\Github\DOTNET-CSharp\Assignment_Login_Form\obj\Debug\Assignment_Login_Form.exe
+D:\Workspace\Github\DOTNET-CSharp\Assignment_Login_Form\obj\Debug\Assignment_Login_Form.pdb
