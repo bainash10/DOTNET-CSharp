@@ -66,7 +66,7 @@ This lab demonstrates important **Object-Oriented Programming (OOP)** concepts i
 | File | Description |
 | --- | --- |
 | `Program.cs` | Main program where object creation, method calls, and menu logic are handled. |
-| `nOverloading.cs` | Contains method overloading implementations. |
+| `Overloading.cs` | Contains method overloading implementations. |
 | `Inheritance.cs` | Contains inheritance examples. |
 | `Palindrome.cs` | Implements logic for checking if a string is a palindrome. |
 | `Overriding.cs` | Contains base and derived classes for overriding (`Operation`, `Addition`, `Subtraction`, `Multiplication`, `Division`). |
