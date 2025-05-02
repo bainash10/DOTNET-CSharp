@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Workspace\\Github\\DOTNET-CSharp\\! Assignments and Practice Questions in class\\Practice_in_Class Calculator App\\WindowsFormsApp1\\",
+  "WorkspaceRootPath": "D:\\DOTNET-CSharp\\! Assignments and Practice Questions in class\\Calculator App\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Workspace\\Github\\DOTNET-CSharp\\! Assignments and Practice Questions in class\\Practice_in_Class Calculator App\\WindowsFormsApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOTNET-CSharp\\! Assignments and Practice Questions in class\\Calculator App\\WindowsFormsApp1\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOTNET-CSharp\\! Assignments and Practice Questions in class\\Calculator App\\WindowsFormsApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\DOTNET-CSharp\\! Assignments and Practice Questions in class\\Calculator App\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\DOTNET-CSharp\\! Assignments and Practice Questions in class\\Calculator App\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFkAAAAANDMzMzMbwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T02:00:26.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Workspace\\Github\\DOTNET-CSharp\\! Assignments and Practice Questions in class\\Practice_in_Class Calculator App\\WindowsFormsApp1\\Program.cs",
+              "DocumentMoniker": "D:\\DOTNET-CSharp\\! Assignments and Practice Questions in class\\Calculator App\\WindowsFormsApp1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Workspace\\Github\\DOTNET-CSharp\\! Assignments and Practice Questions in class\\Practice_in_Class Calculator App\\WindowsFormsApp1\\Program.cs",
+              "ToolTip": "D:\\DOTNET-CSharp\\! Assignments and Practice Questions in class\\Calculator App\\WindowsFormsApp1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAABAMzMzMzMbwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-26T06:10:56.511Z",
               "EditorCaption": ""

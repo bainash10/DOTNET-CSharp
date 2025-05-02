@@ -1,0 +1,44 @@
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\bin\Debug\net8.0-windows\Inheritance Form.exe
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\bin\Debug\net8.0-windows\Inheritance Form.deps.json
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\bin\Debug\net8.0-windows\Inheritance Form.runtimeconfig.json
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\bin\Debug\net8.0-windows\Inheritance Form.dll
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\bin\Debug\net8.0-windows\Inheritance Form.pdb
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance_Form.Calculator.resources
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance_Form.Form1.resources
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance_Form.Login.resources
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance_Form.Reg.resources
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance_Form.Register.resources
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance_Form.WelcomeForm.resources
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.csproj.GenerateResource.cache
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.AssemblyInfoInputs.cache
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.AssemblyInfo.cs
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.csproj.CoreCompileInputs.cache
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.sourcelink.json
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.dll
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\refint\Inheritance Form.dll
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.pdb
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\Inheritance Form.genruntimeconfig.cache
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance-Form\obj\Debug\net8.0-windows\ref\Inheritance Form.dll
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\bin\Debug\net8.0-windows\Inheritance Form.exe
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\bin\Debug\net8.0-windows\Inheritance Form.deps.json
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\bin\Debug\net8.0-windows\Inheritance Form.runtimeconfig.json
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\bin\Debug\net8.0-windows\Inheritance Form.dll
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\bin\Debug\net8.0-windows\Inheritance Form.pdb
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance_Form.Calculator.resources
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance_Form.Form1.resources
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance_Form.Login.resources
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance_Form.Reg.resources
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance_Form.Register.resources
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance_Form.WelcomeForm.resources
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance Form.csproj.GenerateResource.cache
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance Form.AssemblyInfoInputs.cache
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance Form.AssemblyInfo.cs
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance Form.csproj.CoreCompileInputs.cache
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance Form.sourcelink.json
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance Form.dll
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\refint\Inheritance Form.dll
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance Form.pdb
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\Inheritance Form.genruntimeconfig.cache
+D:\DOTNET-CSharp\! Assignments and Practice Questions in class\Inheritance Form\obj\Debug\net8.0-windows\ref\Inheritance Form.dll
