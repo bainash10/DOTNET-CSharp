@@ -117,6 +117,7 @@
             // 
             // menuStrip1
             // 
+            menuStrip1.BackColor = Color.PaleGreen;
             menuStrip1.Items.AddRange(new ToolStripItem[] { fileToolStripMenuItem, editToolStripMenuItem, viewToolStripMenuItem, helpToolStripMenuItem });
             menuStrip1.Location = new Point(0, 0);
             menuStrip1.Name = "menuStrip1";
@@ -209,9 +210,9 @@
             // 
             // button4
             // 
-            button4.Location = new Point(27, 252);
+            button4.Location = new Point(27, 262);
             button4.Name = "button4";
-            button4.Size = new Size(112, 39);
+            button4.Size = new Size(112, 48);
             button4.TabIndex = 59;
             button4.Text = "Stop Timer";
             button4.UseVisualStyleBackColor = true;
@@ -221,7 +222,7 @@
             // 
             button5.Location = new Point(27, 207);
             button5.Name = "button5";
-            button5.Size = new Size(112, 39);
+            button5.Size = new Size(112, 49);
             button5.TabIndex = 58;
             button5.Text = "Start Timer";
             button5.UseVisualStyleBackColor = true;
