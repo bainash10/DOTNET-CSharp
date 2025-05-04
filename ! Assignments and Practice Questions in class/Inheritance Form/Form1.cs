@@ -51,5 +51,73 @@ namespace Inheritance_Form
         {
 
         }
+
+        private void toolStripTextBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void fileToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
+        }
+
+        private void fileToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void enableToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            timer1.Interval = 1000;
+            timer1.Start();
+            label3.Visible = true;
+        }
+
+        private void timerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void disableToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            timer1.Stop();
+            label3.Visible = false;
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            timer1.Interval = 1000;
+            timer1.Start();
+            label3.Visible = true;
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            timer1.Stop();
+            label3.Visible = false;
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            label3.Text = DateTime.Now.ToString("HH:mm:ss");
+        }
     }
 }
