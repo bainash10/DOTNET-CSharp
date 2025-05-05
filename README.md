@@ -6,7 +6,7 @@
 | `main` | Contains lab reports. |
 | `testing` | Contains a simple `nis.txt` file. |
 | `check` | Contains Python files with `.py` extensions. |
-| `master` | Merged with `testing` and `check` branches. |s.
+| `master` | Merged with `testing` and `check` branches. |
 
 ## **Inside `main` Branch**
 
@@ -40,7 +40,8 @@ This lab consists of several fundamental C# programs:
 - Files located inside **`Lab 2\!Practice_PROJECT_Folder_AT_College\ConsoleApp1`** is developed under the guidance of the instructor.
 
 ---
-### Lab 3: Inheritance, Overloading, and Overriding
+
+### **Lab 3: Inheritance, Overloading, and Overriding**
 
 This lab demonstrates important **Object-Oriented Programming (OOP)** concepts in C#:
 
@@ -61,7 +62,6 @@ This lab demonstrates important **Object-Oriented Programming (OOP)** concepts i
   - Derived classes `Addition`, `Subtraction`, `Multiplication`, and `Division` override the `Calculate` method to perform specific arithmetic operations.
   - Demonstrates **runtime polymorphism** (dynamic binding) based on user input.
 
-
 #### Project Structure
 | File | Description |
 | --- | --- |
@@ -76,8 +76,37 @@ This lab builds strong foundations on how **overloading**, **inheritance**, **pa
 
 ---
 
+### **Lab 4: WinForm**
+
+This lab focuses on developing a **Windows Form Application** that includes multiple UI components and functionalities:
+
+#### Components Implemented
+
+1. **Calculator**
+   - Supports arithmetic operations: **Addition**, **Subtraction**, **Multiplication**, and **Division**.
+   - Includes input fields for numbers and buttons for each operation.
+   - A **Clear** button resets all inputs.
+
+2. **Login Form**
+   - Fields: Username and password (with password masked as `*`).
+   - A **Login** button initiates the login process.
+
+3. **Registration Form**
+   - Features:
+     - **ComboBox 1**: Main category.
+     - **ComboBox 2**: Dependent on ComboBox 1's selection.
+     - **Radio Buttons**: For selecting options (e.g., Gender).
+     - **Checkboxes**: For selecting additional features or preferences.
+     - **Numeric Up Down**: For numerical input such as age or quantity.
+   - **Validation** is implemented to ensure all fields are correctly filled before submission.
+
+4. **Timer Feature**
+   - A **Timer** is added to sync with the current local time.
+   - It can be **enabled or disabled** via the **MenuStrip** under the `File` menu.
+
+---
+
 ## **How to Use**
 1. Clone the repository:
    ```sh
    git clone https://github.com/bainash10/DOTNET-CSharp.git
-
