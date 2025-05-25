@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml.Linq;
+using Inheritance_Form.Models;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 
 namespace Inheritance_Form
@@ -38,8 +39,23 @@ namespace Inheritance_Form
                 this.Hide();
             }
 
+            RegisterForm register = new RegisterForm()
+            {
+                Name = name,
+                Age = age,
+                Province = province,
+                District = district
+            };
+            DatabaseService databaseService = new DatabaseService();
+            string message = databaseService.Load_register(register);
+
+            MessageBox.Show(message);
+
         }
 
-       
+        private void Register_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
