@@ -40,7 +40,13 @@
             label4 = new Label();
             label5 = new Label();
             numericUpDown1 = new NumericUpDown();
+            dataGridView1 = new DataGridView();
+            Name = new DataGridViewTextBoxColumn();
+            Age = new DataGridViewTextBoxColumn();
+            Province = new DataGridViewTextBoxColumn();
+            District = new DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // checkedListBox1
@@ -174,11 +180,41 @@
             numericUpDown1.Size = new Size(48, 23);
             numericUpDown1.TabIndex = 69;
             // 
+            // dataGridView1
+            // 
+            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Name, Age, Province, District });
+            dataGridView1.Location = new Point(284, 229);
+            dataGridView1.Name = "dataGridView1";
+            dataGridView1.Size = new Size(428, 150);
+            dataGridView1.TabIndex = 74;
+            // 
+            // Name
+            // 
+            Name.HeaderText = "Name";
+            Name.Name = "Name";
+            // 
+            // Age
+            // 
+            Age.HeaderText = "Age";
+            Age.Name = "Age";
+            // 
+            // Province
+            // 
+            Province.HeaderText = "Province";
+            Province.Name = "Province";
+            // 
+            // District
+            // 
+            District.HeaderText = "District";
+            District.Name = "District";
+            // 
             // Register
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(470, 286);
+            ClientSize = new Size(724, 431);
+            Controls.Add(dataGridView1);
             Controls.Add(checkedListBox1);
             Controls.Add(label7);
             Controls.Add(label2);
@@ -196,6 +232,7 @@
             Text = "Register";
             Load += Register_Load;
             ((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -214,5 +251,10 @@
         private Label label4;
         private Label label5;
         private NumericUpDown numericUpDown1;
+        private DataGridView dataGridView1;
+        private DataGridViewTextBoxColumn Name;
+        private DataGridViewTextBoxColumn Age;
+        private DataGridViewTextBoxColumn Province;
+        private DataGridViewTextBoxColumn District;
     }
 }
