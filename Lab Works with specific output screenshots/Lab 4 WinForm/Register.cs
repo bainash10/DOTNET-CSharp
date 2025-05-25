@@ -18,6 +18,7 @@ namespace Inheritance_Form
         public Register()
         {
             InitializeComponent();
+            //get
         }
 
         private void button4_Click(object sender, EventArgs e)
