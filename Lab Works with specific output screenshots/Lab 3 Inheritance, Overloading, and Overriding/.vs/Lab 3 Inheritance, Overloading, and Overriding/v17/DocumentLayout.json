@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\Palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Palindrome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\Overloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Overloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\Overriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Overriding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,25 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Palindrome.cs",
+              "DocumentMoniker": "D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\Palindrome.cs",
+              "RelativeDocumentMoniker": "Palindrome.cs",
+              "ToolTip": "D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\Palindrome.cs",
+              "RelativeToolTip": "Palindrome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:21:32.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Overriding.cs",
+              "DocumentMoniker": "D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\Overriding.cs",
+              "RelativeDocumentMoniker": "Overriding.cs",
+              "ToolTip": "D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\Overriding.cs",
+              "RelativeToolTip": "Overriding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:46:04.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Overloading.cs",
+              "DocumentMoniker": "D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\Overloading.cs",
+              "RelativeDocumentMoniker": "Overloading.cs",
+              "ToolTip": "D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\Overloading.cs",
+              "RelativeToolTip": "Overloading.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:45:58.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T03:01:13.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Inheritance.cs",
               "DocumentMoniker": "D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\Inheritance.cs",
               "RelativeDocumentMoniker": "Inheritance.cs",
               "ToolTip": "D:\\DOTNET-CSharp\\Lab Works with specific output screenshots\\Lab 3 Inheritance, Overloading, and Overriding\\Inheritance.cs",
               "RelativeToolTip": "Inheritance.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T03:01:11.385Z",
               "EditorCaption": ""
